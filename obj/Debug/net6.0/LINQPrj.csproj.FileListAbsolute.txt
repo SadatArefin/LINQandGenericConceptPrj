@@ -1,0 +1,15 @@
+C:\Project\LINQPrj\obj\Debug\net6.0\LINQPrj.csproj.AssemblyReference.cache
+C:\Project\LINQPrj\obj\Debug\net6.0\LINQPrj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\LINQPrj\obj\Debug\net6.0\LINQPrj.AssemblyInfoInputs.cache
+C:\Project\LINQPrj\obj\Debug\net6.0\LINQPrj.AssemblyInfo.cs
+C:\Project\LINQPrj\obj\Debug\net6.0\LINQPrj.csproj.CoreCompileInputs.cache
+C:\Project\LINQPrj\bin\Debug\net6.0\LINQPrj.exe
+C:\Project\LINQPrj\bin\Debug\net6.0\LINQPrj.deps.json
+C:\Project\LINQPrj\bin\Debug\net6.0\LINQPrj.runtimeconfig.json
+C:\Project\LINQPrj\bin\Debug\net6.0\LINQPrj.dll
+C:\Project\LINQPrj\bin\Debug\net6.0\LINQPrj.pdb
+C:\Project\LINQPrj\obj\Debug\net6.0\LINQPrj.dll
+C:\Project\LINQPrj\obj\Debug\net6.0\refint\LINQPrj.dll
+C:\Project\LINQPrj\obj\Debug\net6.0\LINQPrj.pdb
+C:\Project\LINQPrj\obj\Debug\net6.0\LINQPrj.genruntimeconfig.cache
+C:\Project\LINQPrj\obj\Debug\net6.0\ref\LINQPrj.dll
